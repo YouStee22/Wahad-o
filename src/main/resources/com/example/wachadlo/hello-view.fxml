@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.StackPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="700.0" prefWidth="1000.0" style="-fx-background-image: url(&quot;file:/Users/tomek/Desktop/Wachadlo/src/main/resources/tlo2.jpg&quot;);" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.wachadlo.HelloController">
+   <children>
+      <StackPane fx:id="itx" layoutX="503.0" layoutY="-267.0" prefHeight="820.0" prefWidth="92.0">
+         <children>
+            <AnchorPane fx:id="stx" prefHeight="661.0" prefWidth="184.0">
+               <children>
+                  <AnchorPane layoutX="-504.0" layoutY="265.0" prefHeight="432.0" prefWidth="611.0" style="-fx-background-image: url(&quot;file:/Users/tomek/Desktop/Wachadlo/src/main/resources/kola2.png&quot;); -fx-background-repeat: no-repeat;" />
+               </children>
+               <cursor>
+                  <Cursor fx:constant="CLOSED_HAND" />
+               </cursor>
+            </AnchorPane>
+         </children>
+         <cursor>
+            <Cursor fx:constant="CLOSED_HAND" />
+         </cursor>
+      </StackPane>
+   </children>
+   <cursor>
+      <Cursor fx:constant="DEFAULT" />
+   </cursor>
+</AnchorPane>
