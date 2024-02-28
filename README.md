@@ -1,4 +1,4 @@
-Animacja Wahadło
+##Animacja Wahadło
 
 Prosty projekt wykonany z JavaFX którego celem było przećwiczenie tworzenia animacji.
 Z dostępnych funkcji mamy wizualizacje opadania kuli po uprzednim jej zrzuceniu.
