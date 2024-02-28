@@ -3,7 +3,8 @@ Animacja Wahadło
 Prosty projekt wykonany z JavaFX którego celem było przećwiczenie tworzenia animacji.
 Z dostępnych funkcji mamy wizualizacje opadania kuli po uprzednim jej zrzuceniu.
 
-![Zrzut ekranu 2024-02-28 o 10.35.18.png](..%2FZrzut%20ekranu%202024-02-28%20o%2010.35.18.png)
+<img width="1004" alt="Zrzut ekranu 2024-02-28 o 10 35 18" src="https://github.com/YouStee22/Wahad-o/assets/121635787/c4a42efc-6de8-4e5b-8f7c-e60c2d652020">
+
 
 
 Użyte techonolgie:
